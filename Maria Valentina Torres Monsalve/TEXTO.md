@@ -24,9 +24,9 @@ Desde que era pequeña, la repostería se ha convertido en mi gran pasión.\
 
 ### Series favoritas
 
-1. Aterrizaje de emegencia en tu corazón
+1. Aterrizaje de emegencia en tu corazón\
     ![Alt text](image-1.png)
-2. Vincenzo
+2. Vincenzo\
     ![Alt text](image.png)
 
 ### Codigo
@@ -60,9 +60,13 @@ Desde que era pequeña, la repostería se ha convertido en mi gran pasión.\
 
 https://github.com/Mar972310/cvds-lab1-RMSS.git
 
+## __CURSO GIT__
 
+### Principal
+![Alt text](image-2.png)
 
-
+### Remota
+![Alt text](image-4.png)
 
 
 
