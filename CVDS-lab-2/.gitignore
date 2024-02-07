@@ -8,6 +8,6 @@
 *.iws
 
 # Carpeta de compilación de Maven
-/Patterns/target
-/Patterns/.idea
-/.idea
+Patterns/target/
+Patterns/.idea/
+.idea/
