@@ -1,0 +1,11 @@
+# Byte-compiled Java classes
+*.class
+
+# Archivos generados por IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Carpeta de compilación de Maven
+target/
