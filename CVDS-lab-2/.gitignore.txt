@@ -2,10 +2,12 @@
 *.class
 
 # Archivos generados por IDEs
-.idea/
+.idea
 *.iml
 *.ipr
 *.iws
 
 # Carpeta de compilación de Maven
-target/
+/Patterns/target
+/Patterns/.idea
+/.idea
