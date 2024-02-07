@@ -3,12 +3,12 @@
 
 # Archivos generados por IDEs
 
-/CVDS-lab-2/*.iml
-/CVDS-lab-2/*.ipr
-/CVDS-lab-2/*.iws
+CVDS-lab-2/*.iml
+CVDS-lab-2/*.ipr
+CVDS-lab-2/*.iws
 
 # Carpeta de compilación de Maven
-/CVDS-lab-2/Patterns/.idea/
-/CVDS-lab-2/Patterns/target/
-/CVDS-lab-2/.idea/
-/.idea/
+CVDS-lab-2/Patterns/.idea/
+CVDS-lab-2/Patterns/target/
+CVDS-lab-2/.idea/
+.idea/
