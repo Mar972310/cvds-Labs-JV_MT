@@ -91,7 +91,6 @@ Piense en los casos de [equivalencia](https://prezi.com/-jp_rqhov1nn/particiones
 4. Caso en el que hay una persona es votante (mayor de edad).
 5. Caso en el que hay números de identidad duplicados
 
-![img.png](imagenes/img.png)!
 
 ## EJERCICIO "DESCUENTO DE TARIFAS"
 
