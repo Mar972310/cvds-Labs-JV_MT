@@ -92,6 +92,9 @@ Piense en los casos de [equivalencia](https://prezi.com/-jp_rqhov1nn/particiones
 5. Caso en el que hay números de identidad duplicados
 
 
+![image](https://github.com/Mar972310/cvds-Labs-JV_MT/assets/138072260/87214735-cc01-4d14-9635-d525496f2592)
+
+
 ## EJERCICIO "DESCUENTO DE TARIFAS"
 
 ### REALIZAR DISEÑO DE PRUEBAS
