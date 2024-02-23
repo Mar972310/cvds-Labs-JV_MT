@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Resultado del Juego</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+</head>
+<body>
+<div class="container">
+    <h1>Resultado del Juego</h1>
+    <p th:text="${message}"></p>
+
+    <!-- Formulario para continuar jugando, solo se muestra si el mensaje no es de victoria -->
+    <div th:if="${!message.startsWith('¡Felicidades!')}">
+        <form action="/guess" method="post">
+            <label for="numero">Ingresa un número del 1 al 10:</label>
+            <input type="number" id="numero" name="numero" min="1" max="10" required>
+            <button type="submit">Continuar Jugando</button>
+        </form>
+    </div>
+
+    <!-- Contenedor del enlace de reiniciar -->
+    <div class="reset-link">
+        <p><a href="/guess/reset">Reiniciar el juego</a></p>
+    </div>
+</div>
+</body>
+</html>
+
