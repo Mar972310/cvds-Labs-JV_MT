@@ -85,7 +85,6 @@ En este ejercicio, va a implementar una aplicación Web muy básica, haciendo us
 Para esto usaremos la documentación oficial de Spring con que que aprenderemos las funciones básicas de este framework https://spring.io/guides/gs/serving-web-content/
 
 ![img.png](img%2Fimg.png)
-![img_1.png](img%2Fimg_1.png)
 ![img_2.png](img%2Fimg_2.png)
 
 Después de terminar el aprendizaje analice:
@@ -176,4 +175,4 @@ Para lograr que cada jugador tenga su propio saldo independiente, necesitarías 
 - Configurar el archivo .gitignore para excluir del repositorio los archivos no relevantes.
 - En una carpeta en la raiz del repositorio llamada diagrams y allí realizar un diagrama de clases del proyecto.
 
-![img_10.png](img%2Fimg_10.png)
+![img_11.png](img%2Fimg_11.png)
